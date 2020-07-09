@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>My First Web Page</title>
+</head> <img
+src="D:\HTML\JCS.jpg"
+align="right" width="200" height="200">
+<body style="background-color:#7FFFD4;"> <br>
+<h1 align="left">JCS CORPORATION</h1>
+<h3>ENGR. JOHN CARLO S. SARCIA</h3>
+<h5> LOGISTIC AND PLANNING MANAGER</h5>
+<br>
+<table style="width:100%"> <hr color="green">
+  <tr>
+    <th><a
+href="file:///C:/Users/DENNILYN/Desktop/HTML/home.html">HOME</a>
+</th>
+    <th><a
+href="file:///C:/Users/DENNILYN/Desktop/HTML/faq.html">FAQ</a></th>
+    <th><a
+href="file:///C:/Users/DENNILYN/Desktop/HTML/contact.html">CONTACT</a>
+</th>
+    <th><a
+href="http://reportgrades.bpsu.edu.ph/login-form.php">LINKS</a></th>
+  </tr>
+</table> <hr color="green">
+<h2>History of Computer Programming</h2>
+<p>
+During 1842–1843 Ada Lovelace translated the memoir of Italian mathematician Luigi Menabrea about Charles Babbage's newest proposed machine: the Analytical Engine; she supplemented the memoir with notes that specified in detail a method for calculating Bernoulli numbers with the engine, recognized by some historians as the world's first published computer program. The first computer codes were specialized for their applications: e.g., Alonzo Church was able to express the lambda calculus in a formulaic way and the Turing machine was an abstraction of the operation of a tape-marking machine. To some people, some degree of expressive power and human-readability is required before the status of "programming language" is granted. Jacquard Looms and Charles Babbage's Difference Engine both had simple, extremely limited languages for describing the actions that these machines should perform.
+<br>
+<br>
+The first high-level programming language was Plankalkül, created by Konrad Zuse between 1942 and 1945]. The first high-level language to have an associated compiler was created by Corrado Böhm in 1951, for his PhD thesis. The first commercially available language was FORTRAN (FORmula TRANslation); developed in 1956 (first manual appeared in 1956, but first developed in 1954) by a team led by John Backus at IBM.
+<br>
+<br>
+When FORTRAN was first introduced it was treated with suspicion because of the belief that programs compiled from high-level language would be less efficient than those written directly in machine code. FORTRAN became popular because it provided a means of porting existing code to new computers, in a hardware market that was rapidly evolving; the language eventually became known for its efficiency. 
+</p> <hr color="green">
+<br>
+<br>
+<p align="center"> #771 LATI STREET, WAWA, ABUCAY, BATAAN, PHILIPPINES 2114</p>
+<p align="center"> +63 930-390-6082 </p> <hr color="green"> <br><br>
+<p align="center"> <a href="https://www.gmail.com">Email:jcscorporation12@gmail.com</a> </p> <hr color="green">
+</body>
+</html>
